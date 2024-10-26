@@ -2,7 +2,7 @@ print("Hello World")
 nmbr = 0
 
 print(nmbr)
-nmbr =+ 2
+nmbr =+ 3
 print(nmbr)
 
 if nmbr < 0:
